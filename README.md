@@ -13,9 +13,9 @@ To launch this project, you need to initialize command prompt window in root dir
 utils/find_angle.py - a utility that allows you to describe the position of the hand in space relative to three coordinate axes. To use you need to import the method description_of_hand_position(Input: keypoint_coord3d_v -   [1, 21, 3] tf.float32 tensor, Normalizable 3D coordinates of  keypoints).
 
 Note: in other branches (non master) located other trys of solving our hand tracking problem
-    handkeydetection branch: \n
-                            hand_key_detect.py - script for finding 2d coordinates of hands key points \n
-                            display_data_in_graph.py - script for displaying experimental data on 2D graphs \n
+    handkeydetection branch: 
+                            hand_key_detect.py - script for finding 2d coordinates of hands key points 
+                            display_data_in_graph.py - script for displaying experimental data on 2D graphs 
                             data.pickle - list of 2d coorinates of key points of collected experimental data
                             
                             
